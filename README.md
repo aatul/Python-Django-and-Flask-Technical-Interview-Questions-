@@ -8,7 +8,7 @@ Looking forward to appear in Python, Django and Flask Interview, here are the ke
 | 1             |[What do you like about Python and what you dislike about it?](https://github.com/aatul/Python-Django-and-Flask-Technical-Interview-Questions-/blob/master/README.md#1-what-do-you-like-about-python-and-what-you-dislike-about-it) | 
 
 
-**[Back to Top](https://github.com/aatul/Java-Interview-Questions-Answers/blob/master/README.md#java-interview-questions-answers)**
+**[Back to Top]([https://github.com/aatul/Java-Interview-Questions-Answers/blob/master/README.md#java-interview-questions-answers](https://github.com/aatul/Python-Django-and-Flask-Technical-Interview-Questions-/blob/master/README.md#python-django-and-flask-technical-interview-questions)**
 
 ---
 
@@ -23,6 +23,6 @@ Looking forward to appear in Python, Django and Flask Interview, here are the ke
 - Speed- being an interpreted language, it is not best suited for time-critical tasks. 
 - Multithreading - due to the Global Interpreter Lock.
 
-**[Back to Top](https://github.com/aatul/Java-Interview-Questions-Answers/blob/master/README.md#java-interview-questions-answers)**
+**[Back to Top](https://github.com/aatul/Java-Interview-Questions-Answers/blob/master/README.md#java-interview-questions-answers](https://github.com/aatul/Python-Django-and-Flask-Technical-Interview-Questions-/blob/master/README.md#python-django-and-flask-technical-interview-questions)**
 
 ---
