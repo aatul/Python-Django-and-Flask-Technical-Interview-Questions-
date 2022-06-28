@@ -5,7 +5,7 @@ Looking forward to appear in Python, Django and Flask Interview, here are the ke
 ### Table of Contents
 | Sr.No.        | Question      | 
 | ------------- |-------------| 
-| 1             |[What do you like about Python and what you dislike about it?](https://github.com/aatul/Java-Interview-Questions-Answers/blob/master/README.md#1-new-java8-features) | 
+| 1             |[What do you like about Python and what you dislike about it?](https://github.com/aatul/Python-Django-and-Flask-Technical-Interview-Questions-/blob/master/README.md#1-what-do-you-like-about-python-and-what-you-dislike-about-it) | 
 
 
 ### 1. What do you like about Python and what you dislike about it?
